@@ -21,4 +21,4 @@ Date is returned in UTC Time using [ISO 8601](https://en.wikipedia.org/wiki/ISO_
 
 ## 🧞 API Endpoint
 
-https://date-api/decubba.com/date.json
+[https://date-api/decubba.com/date.json](https://date-api.decubba.com/date.json)
